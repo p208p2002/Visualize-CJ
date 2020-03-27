@@ -5,7 +5,7 @@
 (docker image rm vcj_server);
 
 # build client image
-echo "REACT_APP_API_HOST=${REACT_APP_API_HOST}:${SERVER_PORT}" >> .env # setting .env
+echo "REACT_APP_API_HOST=${REACT_APP_API_HOST}:${SERVER_PORT}" >> client/.env # setting .env
 cd client&&sh docker-build.sh
 cd ../
 
