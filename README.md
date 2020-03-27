@@ -1,4 +1,6 @@
 # Visualize-CJ
+- [https://github.com/p208p2002/Visualize-CJ-client](https://github.com/p208p2002/Visualize-CJ-client)
+- [https://github.com/p208p2002/Visualize-CJ-server](https://github.com/p208p2002/Visualize-CJ-server)
 ## Init
 - `sh init.sh`
 ## Build
