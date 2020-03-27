@@ -1,8 +1,8 @@
 # rm old image
 (docker image rm vcj_client);
-(docker rm vcj_client);
+(docker stop vcj_client&&docker rm vcj_client);
 (docker image rm vcj_server);
-(docker rm vcj_server);
+(docker stop vcj_server&&docker rm vcj_server);
 
 # build client image
 cd client
