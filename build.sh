@@ -14,5 +14,5 @@ cd server&&sh docker-build.sh
 cd ../
 
 # run
-docker run -itd -p ${CLIENT_PORT}:3000 --name=vcj_client vcj_client
-docker run -itd --gpus all -p ${SERVER_PORT}:8888 --name=vcj_server vcj_server
+docker run --restart=always -itd -p ${CLIENT_PORT}:3000 --name=vcj_client vcj_client
+docker run --restart=always -itd --gpus all -p ${SERVER_PORT}:8888 --name=vcj_server vcj_server
