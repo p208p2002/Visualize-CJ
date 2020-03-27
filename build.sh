@@ -7,7 +7,7 @@
 # build client image
 cd client
 echo "REACT_APP_API_HOST=${REACT_APP_API_HOST}:${SERVER_PORT}" >> .env # setting .env
-npm run docker-build
+docker-build.sh
 cd ../
 
 # build server image
