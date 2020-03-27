@@ -1,3 +1,5 @@
+# update
+git pull
 # clean
 rm -rf server/
 rm -rf client/
