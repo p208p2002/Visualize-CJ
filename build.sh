@@ -4,10 +4,6 @@
 (docker image rm vcj_server);
 (docker rm vcj_server);
 
-#
-export CLIENT_PORT=12500
-export SERVER_PORT=12501
-
 # build client image
 cd client
 echo "REACT_APP_API_HOST=${REACT_APP_API_HOST}:${SERVER_PORT}" >> .env # setting .env
