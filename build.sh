@@ -1,8 +1,8 @@
 # rm old image
-(docker image rm vcj_client);
 (docker stop vcj_client&&docker rm vcj_client);
-(docker image rm vcj_server);
+(docker image rm vcj_client);
 (docker stop vcj_server&&docker rm vcj_server);
+(docker image rm vcj_server);
 
 # build client image
 echo "REACT_APP_API_HOST=${REACT_APP_API_HOST}:${SERVER_PORT}" >> .env # setting .env
