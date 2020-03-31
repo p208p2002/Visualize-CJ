@@ -2,6 +2,7 @@
 - [https://github.com/p208p2002/Visualize-CJ-client](https://github.com/p208p2002/Visualize-CJ-client)
 - [https://github.com/p208p2002/Visualize-CJ-server](https://github.com/p208p2002/Visualize-CJ-server)
 ## Init
+- `sudo apt install unzip`
 - `sh init.sh`
 ## Build(249)
 ```sh
