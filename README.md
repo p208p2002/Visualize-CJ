@@ -1,6 +1,6 @@
 # Visualize-CJ
 ## Visualize-CJ-client
-![Build](https://github.com/p208p2002/Visualize-CJ-client/workflows/Build/badge.svg)
+![Build](https://github.com/p208p2002/Visualize-CJ-client/workflows/Build/badge.svg?branch=master)
 - [https://github.com/p208p2002/Visualize-CJ-client](https://github.com/p208p2002/Visualize-CJ-client)
 ## Visualize-CJ-server
 - [https://github.com/p208p2002/Visualize-CJ-server](https://github.com/p208p2002/Visualize-CJ-server)
