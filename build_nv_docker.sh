@@ -15,4 +15,4 @@ cd ../
 
 # run
 docker run --restart=always -itd -p ${CLIENT_PORT}:3000 --name=vcj_client vcj_client
-nvidia-docker run --restart=always -itd all -p ${SERVER_PORT}:8888 --name=vcj_server vcj_server
+nvidia-docker run --restart=always -itd -p ${SERVER_PORT}:8888 --name=vcj_server vcj_server
