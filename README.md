@@ -16,6 +16,15 @@ export SERVER_PORT=12501&&\
 sh build.sh
 ```
 
+## Build(252)
+``` sh
+sh init.sh&&\
+export REACT_APP_API_HOST=http://API_HOST&&\
+export CLIENT_PORT=12500&&\
+export SERVER_PORT=12501&&\
+sh build_nv_docker.sh
+```
+
 ## Law Build(252)
 ``` sh
 sh init_law.sh&&\
