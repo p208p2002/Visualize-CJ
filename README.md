@@ -7,6 +7,13 @@
 ## Init
 - `sudo apt install unzip`
 - `sh init.sh`
+
+## ENV Setting
+```sh
+export CUDA_VISIBLE_DEVICES = 0
+export MODEL_BATCH_SIZE = 6
+```
+
 ## Build(249)
 ```sh
 sh init.sh&&\
