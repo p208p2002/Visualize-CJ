@@ -15,4 +15,7 @@ cd ../
 
 # run
 docker run --restart=always -itd -p ${CLIENT_PORT}:3000 --name=vcj_client vcj_client
-docker run --restart=always -itd --gpus all -p ${SERVER_PORT}:8888 --name=vcj_server vcj_server
+docker run --restart=always -itd --gpus all -p ${SERVER_PORT}:8888 --name=vcj_server\
+  -e"MODEL_BATCH_SIZE"={$MODEL_BATCH_SIZE}\
+  -e"CUDA_VISIBLE_DEVICES"={$CUDA_VISIBLE_DEVICES}\
+  vcj_server
