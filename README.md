@@ -10,8 +10,8 @@
 
 ## ENV Setting
 ```sh
-export CUDA_VISIBLE_DEVICES = 0
-export MODEL_BATCH_SIZE = 6
+export CUDA_VISIBLE_DEVICES=0
+export MODEL_BATCH_SIZE=6
 ```
 
 ## Build(249)
