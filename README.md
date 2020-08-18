@@ -11,7 +11,7 @@ https://gist.github.com/p208p2002/583d08068f997e5be2b3478cba963364
 ## Model Backup
 - [albert-base-chinese-drcd(GD)](https://drive.google.com/file/d/1r9IPCXXIfRNjBTODuTXTWcDvvyVJYSEu/view?usp=sharing)
 - [bert-base-chinese-drcd(GD)](https://drive.google.com/file/d/1pPSu1g3XrSx2ZVNyqyJWis_2hqIDO1Pk/view?usp=sharing)
-- [ckip-tagger](https://drive.google.com/drive/folders/105IKCb88evUyLKlLondvDBoh7Dy_I1tm)
+- [ckip-tagger(GD)](https://drive.google.com/drive/folders/105IKCb88evUyLKlLondvDBoh7Dy_I1tm)
 
 ## Run with Docker
 ### ENV Require
