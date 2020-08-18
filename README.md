@@ -8,6 +8,10 @@ https://gist.github.com/p208p2002/583d08068f997e5be2b3478cba963364
 ## Visualize-CJ-server
 - [https://github.com/p208p2002/Visualize-CJ-server](https://github.com/p208p2002/Visualize-CJ-server)
 
+## Model Backup
+- [albert-base-chinese-drcd(GD)](https://drive.google.com/file/d/1r9IPCXXIfRNjBTODuTXTWcDvvyVJYSEu/view?usp=sharing)
+- [bert-base-chinese-drcd(GD)](https://drive.google.com/file/d/1pPSu1g3XrSx2ZVNyqyJWis_2hqIDO1Pk/view?usp=sharing)
+
 ## Run with Docker
 ### ENV Require
 - docker 19.03
