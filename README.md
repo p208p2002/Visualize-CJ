@@ -1,5 +1,5 @@
 # Visualize-CJ
-AI判決書視覺化
+AI判決書視覺化主項目
 
 ## Project Repos
 - [VCJ主項目 (Visualize-CJ)](https://github.com/p208p2002/Visualize-CJ)
