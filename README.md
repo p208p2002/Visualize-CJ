@@ -14,3 +14,6 @@ AI判決書視覺化主項目
 ## Gist
 - [職稱清單](https://gist.github.com/p208p2002/c4a2094f756eba2fa0f132480bf387dd)
 - [身份清單](https://gist.github.com/p208p2002/cbc21d9a3dd270ad95a5b209e62c1cac)
+
+## Contributors
+- [Philip Huang](https://github.com/p208p2002)
