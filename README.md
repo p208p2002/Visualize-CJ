@@ -18,3 +18,4 @@ AI判決書視覺化主項目
 ## Contributors
 - [Philip Huang](https://github.com/p208p2002)
 - [Cai-Pei-Xuan](https://github.com/Cai-Pei-Xuan)
+- [Yao_Hsu](https://github.com/Josiriser)
