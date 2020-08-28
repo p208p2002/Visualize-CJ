@@ -20,3 +20,4 @@ AI判決書視覺化主項目
 - [Cai-Pei-Xuan](https://github.com/Cai-Pei-Xuan)
 - [Yao_Hsu](https://github.com/Josiriser)
 - [Sean Peng](https://github.com/seanbbear)
+- [Meng-Ni Wu](https://github.com/wmn0812)
